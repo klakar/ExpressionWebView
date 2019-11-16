@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/expression_web_view" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
